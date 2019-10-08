@@ -14,7 +14,7 @@
 	> `dotnet DotNetCoreKafkaConsumer.dll`
 
 
-- Send message on Apache Kafka with a json file
+- Send message on Apache Kafka with a json file. Here is a
 sample json file:
 
 	 ```{"login":{"name": "a_name","ts": 1570519030665, "attributes":{"os": "linux", "geo": "tr","age": "25"}}}```
