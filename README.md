@@ -5,7 +5,7 @@
 
 - Running Apache Kafka Server
 - An Apache Kafa Topic named "test"
-- Linux .NET Core SDK (if you want to test it on Linux [Download Link](http://https://dotnet.microsoft.com/download "Download Link"))
+- Linux .NET Core SDK (if you want to test it on Linux [Download Link](https://dotnet.microsoft.com/download "Download Link"))
 
 
 ### Testing
