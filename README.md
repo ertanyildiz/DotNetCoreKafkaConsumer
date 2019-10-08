@@ -9,7 +9,8 @@
 
 
 ### Testing
--Run project or if you want to test it on Linux then Copy **netcoreapp3.0.zip** zip to your computer, unzip and go to folder on your terminal and then run the command 
+
+- Run project or if you want to test it on Linux then Copy **netcoreapp3.0.zip** zip to your computer, unzip and go to folder on your terminal and then run the command 
 
 	> `dotnet DotNetCoreKafkaConsumer.dll`
 
