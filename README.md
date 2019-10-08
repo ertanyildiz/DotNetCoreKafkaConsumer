@@ -4,7 +4,7 @@
 ### Prerequisites
 
 - Running Apache Kafka Server
-- An Apache Kafa Topic name "test"
+- An Apache Kafa Topic named "test"
 - Linux .NET Core SDK (if you want to test it on Linux [Download Link](http://https://dotnet.microsoft.com/download "Download Link"))
 
 
