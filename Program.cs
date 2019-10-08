@@ -36,6 +36,7 @@ namespace KafkaDotNet
                     {
                         try
                         {
+                            Console.WriteLine("Listening...");
                             //Poll for new messages
                             var cr = c.Consume(cts.Token);
 
