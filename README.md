@@ -1,7 +1,7 @@
 # DotNetCoreKafkaConsumer
 .NET Core Console Application that polls messages from Apache Kafka
 
-### Prerequisite
+### Prerequisites
 
 - Running Apache Kafka Server
 - An Apache Kafa Topic name "test"
